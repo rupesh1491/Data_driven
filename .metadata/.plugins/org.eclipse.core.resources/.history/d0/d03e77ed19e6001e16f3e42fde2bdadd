@@ -1,0 +1,2 @@
+searchBox=xpath,//input[@name='q']
+firstSearchResult=xpath,//div[@class='r']//a
